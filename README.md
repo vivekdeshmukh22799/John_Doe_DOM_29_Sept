@@ -10,7 +10,7 @@
 8. If, on the 3rd image, you fail to achieve a total sum greater than 10 even after three clicks,you'll receive a message: "Bad luck" and won't be given another chance.
 9. Enjoy the game and good luck in your quest to unlock the 12-digit coupon code!
 
-**Live preview: [click me](https://vivekdeshmukh22799.github.io/)**
+**Live preview: [click me](https://vivekdeshmukh22799.github.io/Vivek_Deshmukh_DOM_29_Sept/)**
 
 ### Made with ❤️ by [Vivek Ramdas Deshmukh]
 
